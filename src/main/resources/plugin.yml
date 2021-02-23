@@ -1,0 +1,6 @@
+main: net.simplyrin.hideplayer.HidePlayer
+name: HidePlayer
+version: 1.0
+commands:
+  hideplayer:
+  showplayer:
